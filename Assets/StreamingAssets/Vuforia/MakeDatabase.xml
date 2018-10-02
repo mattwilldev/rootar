@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="offerzen_gitdog" size="1.000000 0.722892" />
+    <ImageTarget name="offerzen_merpug" size="1.000000 0.715232" />
+    <ImageTarget name="offerzen_mew_mew" size="1.000000 0.720480" />
+    <ImageTarget name="offerzen_astrosloth" size="1.000000 0.716180" />
+    <ImageTarget name="offerzen_badass_unicorn" size="1.000000 0.721443" />
+    <ImageTarget name="oxygen" size="1.000000 0.720312" />
+    <ImageTarget name="egg_green" size="1.000000 0.714844" />
+    <ImageTarget name="egg_blue" size="1.000000 0.719531" />
+    <ImageTarget name="drone" size="1.000000 0.719520" />
+    <ImageTarget name="astronaut" size="1.000000 0.721094" />
+  </Tracking>
+</QCARConfig>
